@@ -1,7 +1,4 @@
 #!/bin/zsh
-#
-# This script renames *.${IN} to *.${OUT} in the directory ${DIR}.
-#
 # Based on: http://stackoverflow.com/a/2989428/1043187
 
 script_name=$(basename $0)
